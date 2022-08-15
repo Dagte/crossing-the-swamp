@@ -2,6 +2,7 @@ import io.github.dagte.crossingtheswamp.*
 import java.util.*
 
 fun main(args: Array<String>) {
+    // Adding comment just to check that it works
 //    println("Program arguments: ${args.joinToString()}")
 //    var bo = Board();
 //    bo.name = "bla"
